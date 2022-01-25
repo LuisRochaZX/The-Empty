@@ -3,7 +3,7 @@ const Discord = require('discord.js');
 exports.run = async (client, message, args) => {
 
 var list = [
-  'https://media.giphy.com/media/97q4K1N3uQagoUbCSF/giphy.gif',
+  "https://media.giphy.com/media/97q4K1N3uQagoUbCSF/giphy.gif",
   "https://media.giphy.com/media/hcyB6qTEsMwu13XL28/giphy.gif",
   "https://media.giphy.com/media/oRMM3Girl7fB6KQAmW/giphy.gif",
   "https://media.giphy.com/media/QZKu9HRlsTwlyoDejL/giphy.gif",
