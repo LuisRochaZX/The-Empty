@@ -1,0 +1,19 @@
+{
+  "name": "The-Empty",
+  "version": "3.0.0",
+  "description": "Bot Official do Servidor The Empty",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "LuísRochaZX#0622",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.1",
+    "express": "^4.17.1",
+    "moment": "^2.29.1",
+    "ms": "^2.1.3",
+    "node": "^15.10.0"
+  }
+}
